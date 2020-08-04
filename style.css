@@ -1,0 +1,64 @@
+#body{
+	height:100%;
+  margin 0;
+}
+#cabesera{
+	
+	height: 110px;
+	width: 100%;
+	background-color: #CA1B1B;
+}
+#datos{
+	
+	height: 70px;
+	width: 100%;
+	background-color: #CA1B1B;
+	box-shadow: 0px 5px 9px 1px  #8A0F0F;
+}
+#log{
+	 height: 70px;
+	 width: 10%;
+	  float:left;}
+
+#fotolo{
+	 height: 67px;
+	 width: 90%;
+	 float:left;
+	 margin-left: 15px;}
+
+#tit{
+	 height: 70px;
+	 width: 20%;
+	  float:left;}
+
+#foto{
+	height: 68px;
+	 width: 100%;}
+
+#dir{
+     height: 70px;
+	 width: 30%;	
+	 float:left;}
+
+#tel{
+     height: 70px;
+	 width: 30%;
+	 float:left;}
+
+#menu{
+	height: 30px;
+	width: 100%;
+}
+#opmenu{	
+	list-style: none;
+	text-decoration: none; 
+
+}
+li{
+	margin-left: 40px;
+	color: white; 
+	display: inline-block;
+	text-align: center;
+	font-family: Copperplate Gothic Light;
+
+}
